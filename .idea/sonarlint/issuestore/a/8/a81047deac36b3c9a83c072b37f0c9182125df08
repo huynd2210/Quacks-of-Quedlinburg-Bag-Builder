@@ -1,0 +1,13 @@
+
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8á¨µôÎ.
+B
+java:S1128"%Remove this unused import 'pojo.Bag'.(¥ß¿8á¨µôÎ.
+B
+java:S1128"%Remove this unused import 'pojo.Pot'.(µ–™Ğ8á¨µôÎ.
+Q
+java:S1066"/Merge this if statement with the enclosing one.(çÄ‘Íÿÿÿÿÿ8á¨µôÎ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ˆ´Ş¨ùÿÿÿÿ8á¨µôÎ.
+C
+java:S1128"&Remove this unused import 'pojo.Tile'.(éºÄà8á¨µôÎ.

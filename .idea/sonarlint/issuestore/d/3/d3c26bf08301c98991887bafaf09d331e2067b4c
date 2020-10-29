@@ -1,0 +1,25 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( ö‘¨øÿÿÿÿ8û¨µôÎ.
+^
+java:S1128"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ8û¨µôÎ.
+W
+java:S2209"5Change this instance-reference to a static reference.( ö‘¨øÿÿÿÿ8û¨µôÎ.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8û¨µôÎ.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8û¨µôÎ.
+Y
+java:S1128"7Remove this unused import 'algorithm.CartesianProduct'.(·¯æüÿÿÿÿ8û¨µôÎ.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8û¨µôÎ.
+Q
+java:S1128
+"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8û¨µôÎ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÆÎ£Œ8û¨µôÎ.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8û¨µôÎ.
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8û¨µôÎ.
+J
+java:S2440"-Remove this instantiation of "GeneticEngine".(Þ”Ÿ8û¨µôÎ.
+B
+java:S1128"%Remove this unused import 'pojo.Bag'.(¥ß¿8û¨µôÎ.

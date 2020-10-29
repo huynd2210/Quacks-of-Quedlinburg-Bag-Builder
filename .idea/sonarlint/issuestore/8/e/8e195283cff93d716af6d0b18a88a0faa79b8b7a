@@ -1,0 +1,18 @@
+
+X	java:S1259"<This block of commented-out lines of code should be removed.(ªâôí8Ô¨µôÎ.
+X
+java:S1144M"6Remove this unused private "findChipsWithCost" method.(’¸š«şÿÿÿÿ8´¤¦ºÑ.
+]	java:S1251"<This block of commented-out lines of code should be removed.(°‹œøÿÿÿÿ8Ô¨µôÎ.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(É‘Éô8Ô¨µôÎ.
+B
+java:S1128"%Remove this unused import 'pojo.Bag'.(¥ß¿8Ô¨µôÎ.
+]	java:S125I"<This block of commented-out lines of code should be removed.(Ôœ¥Ëşÿÿÿÿ8Ô¨µôÎ.
+M
+java:S1128"+Remove this unused import 'data.StateData'.(ÖƒñÓıÿÿÿÿ8Ô¨µôÎ.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(å÷Èœ8Ô¨µôÎ.
+X	java:S125E"<This block of commented-out lines of code should be removed.(”Œë 8´¤¦ºÑ.
+]	java:S125C"<This block of commented-out lines of code should be removed.(•ú”úÿÿÿÿ8Ô¨µôÎ.
+]	java:S125"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8Ÿ‡ò¹Ñ.
+]	java:S125K"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ô¨µôÎ.
